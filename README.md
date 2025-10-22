@@ -1,5 +1,6 @@
 # c-code
-HELLO....👋 (pavan)
+HELLO....👋 
+(pavan) ok i am ui
 <br>
 practice code and understand and first repository
 <br>
