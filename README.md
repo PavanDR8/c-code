@@ -1,5 +1,5 @@
 # c-code
-HELLO....👋 
+HELLO....👋 (pavan)
 <br>
 practice code and understand and first repository
 <br>
